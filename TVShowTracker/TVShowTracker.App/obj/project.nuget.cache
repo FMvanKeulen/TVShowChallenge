@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AsZwrupzRCgY4u8oiMSN7wJANw8MrpQsPSniLTfaTAyNVUv648oY78XryyHbBIuoOVTPnHlXglOeylapPO/D9g==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\TVShowTracker\\TVShowTracker.App\\TVShowTracker.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fmvan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

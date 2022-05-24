@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07bea56b-e1ab-4d64-a786-704c2551137c": {
+      "ProjectGuid": "07bea56b-e1ab-4d64-a786-704c2551137c",
+      "DisplayName": "TVShowTracker.Application",
+      "ColorIndex": 0
+    },
+    "4d8a262f-f206-4b3e-8c5f-30e3f2fbc0b0": {
+      "ProjectGuid": "4d8a262f-f206-4b3e-8c5f-30e3f2fbc0b0",
+      "DisplayName": "TVShowTracker.Domain",
+      "ColorIndex": 1
+    },
+    "a9f6dcc6-68b4-49c2-bf9b-b660a2c1234f": {
+      "ProjectGuid": "a9f6dcc6-68b4-49c2-bf9b-b660a2c1234f",
+      "DisplayName": "TVShowTracker.Infra.Data",
+      "ColorIndex": 2
+    },
+    "6be8ba00-898d-45af-ac13-3fc81a8c73e4": {
+      "ProjectGuid": "6be8ba00-898d-45af-ac13-3fc81a8c73e4",
+      "DisplayName": "TVShowTracker.Infra.IoC",
+      "ColorIndex": 3
+    },
+    "cf3e042d-0409-4a9c-923b-9bb45519e1c0": {
+      "ProjectGuid": "cf3e042d-0409-4a9c-923b-9bb45519e1c0",
+      "DisplayName": "TVShowTracker.WebUI",
+      "ColorIndex": 4
+    },
+    "c16c27a9-d868-4984-a964-d80474c494d6": {
+      "ProjectGuid": "c16c27a9-d868-4984-a964-d80474c494d6",
+      "DisplayName": "TVShowTracker.App",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

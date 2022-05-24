@@ -1,0 +1,12 @@
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\bin\Debug\net5.0\TVShowTracker.Domain.deps.json
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\bin\Debug\net5.0\TVShowTracker.Domain.dll
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\bin\Debug\net5.0\ref\TVShowTracker.Domain.dll
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\bin\Debug\net5.0\TVShowTracker.Domain.pdb
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\obj\Debug\net5.0\TVShowTracker.Domain.csproj.AssemblyReference.cache
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\obj\Debug\net5.0\TVShowTracker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\obj\Debug\net5.0\TVShowTracker.Domain.AssemblyInfoInputs.cache
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\obj\Debug\net5.0\TVShowTracker.Domain.AssemblyInfo.cs
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\obj\Debug\net5.0\TVShowTracker.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\obj\Debug\net5.0\TVShowTracker.Domain.dll
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\obj\Debug\net5.0\ref\TVShowTracker.Domain.dll
+D:\Projetos\TVShowTracker\TVShowTracker.Domain\obj\Debug\net5.0\TVShowTracker.Domain.pdb
